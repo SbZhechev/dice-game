@@ -1,0 +1,25 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SbZhechev/dice-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SbZhechev/dice-game/issues"
+  },
+  "homepage": "https://github.com/SbZhechev/dice-game#readme",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.2"
+  }
+}
